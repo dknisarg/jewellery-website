@@ -109,10 +109,3 @@
         padding:0;
     }   
 }
-
-@media (max-width: 360px) {
-    /* Top Banner */
-    #home .carousel-caption {
-        top:1rem;
-    }
-}
